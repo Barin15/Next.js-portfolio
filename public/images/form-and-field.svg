@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="620" viewBox="0 0 800 620">
+  <rect width="800" height="620" fill="#e1ddcf"/>
+  <rect x="38" y="35" width="724" height="550" rx="3" fill="#f3f0e6"/>
+  <text x="76" y="88" fill="#28392d" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="2">FORM &amp; FIELD</text>
+  <text x="612" y="88" fill="#53634d" font-family="Arial,sans-serif" font-size="11">OBJECTS FOR LIVING</text>
+  <line x1="76" y1="108" x2="724" y2="108" stroke="#d3d0c4"/>
+  <text x="76" y="195" fill="#344438" font-family="Georgia,serif" font-size="58">Made to</text>
+  <text x="76" y="252" fill="#849271" font-family="Georgia,serif" font-size="58" font-style="italic">feel like home.</text>
+  <text x="78" y="286" fill="#73776d" font-family="Arial,sans-serif" font-size="12">Considered pieces for slower, softer days.</text>
+  <rect x="78" y="312" width="132" height="36" rx="18" fill="#28392d"/>
+  <text x="101" y="335" fill="#fffdf6" font-family="Arial,sans-serif" font-size="11">Discover the collection</text>
+  <rect x="444" y="136" width="280" height="340" fill="#c7c6a9"/>
+  <circle cx="582" cy="288" r="96" fill="#eee7d4"/>
+  <path d="M505 291h154l-19 139h-116z" fill="#a96c48"/>
+  <ellipse cx="582" cy="291" rx="77" ry="17" fill="#bd835d"/>
+  <ellipse cx="582" cy="291" rx="55" ry="10" fill="#eadfc4"/>
+  <path d="M538 365h88m-82 21h76m-69 21h62" stroke="#dca783" stroke-width="3" opacity=".8"/>
+  <rect x="76" y="507" width="197" height="42" fill="#e6e1d3"/>
+  <text x="94" y="533" fill="#515d4b" font-family="Arial,sans-serif" font-size="11">Small-batch, thoughtfully made</text>
+  <text x="694" y="544" fill="#68725d" font-family="Arial,sans-serif" font-size="10">COPENHAGEN · 2025</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="620" viewBox="0 0 800 620">
+  <rect width="800" height="620" fill="#cbd3c0"/>
+  <rect x="42" y="36" width="716" height="548" rx="10" fill="#f2f3ec"/>
+  <rect x="42" y="36" width="153" height="548" rx="10" fill="#33473b"/>
+  <circle cx="81" cy="81" r="14" fill="#c8e283"/>
+  <text x="107" y="86" fill="#f4f2e9" font-family="Arial,sans-serif" font-size="13" font-weight="700">common</text>
+  <text x="72" y="142" fill="#aab8a6" font-family="Arial,sans-serif" font-size="10">YOUR SPACE</text>
+  <rect x="62" y="158" width="113" height="35" rx="5" fill="#465a4c"/>
+  <circle cx="79" cy="175" r="4" fill="#c8e283"/>
+  <text x="91" y="179" fill="#f4f2e9" font-family="Arial,sans-serif" font-size="10">Overview</text>
+  <text x="79" y="223" fill="#d0d6ca" font-family="Arial,sans-serif" font-size="10">Projects</text>
+  <text x="79" y="258" fill="#d0d6ca" font-family="Arial,sans-serif" font-size="10">Community</text>
+  <text x="79" y="293" fill="#d0d6ca" font-family="Arial,sans-serif" font-size="10">Resources</text>
+  <circle cx="82" cy="521" r="17" fill="#c8a287"/>
+  <text x="107" y="519" fill="#f4f2e9" font-family="Arial,sans-serif" font-size="9">Jamie Lee</text>
+  <text x="107" y="534" fill="#b2bdb0" font-family="Arial,sans-serif" font-size="8">Community lead</text>
+  <text x="228" y="91" fill="#324338" font-family="Arial,sans-serif" font-size="21" font-weight="700">A place to grow together.</text>
+  <text x="228" y="115" fill="#858d81" font-family="Arial,sans-serif" font-size="10">Here&apos;s what&apos;s happening in your community.</text>
+  <rect x="228" y="145" width="492" height="130" rx="7" fill="#e4ebd6"/>
+  <text x="252" y="180" fill="#627454" font-family="Arial,sans-serif" font-size="10">YOUR COMMUNITY, THIS WEEK</text>
+  <text x="252" y="224" fill="#324338" font-family="Georgia,serif" font-size="32">Small steps, shared.</text>
+  <circle cx="664" cy="211" r="32" fill="#c8e283"/>
+  <path d="M648 211h31m-12-12 12 12-12 12" fill="none" stroke="#40533d" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <text x="228" y="315" fill="#324338" font-family="Arial,sans-serif" font-size="13" font-weight="700">Your projects</text>
+  <rect x="228" y="333" width="229" height="104" rx="6" fill="#fff"/>
+  <circle cx="254" cy="360" r="10" fill="#c8e283"/>
+  <text x="273" y="364" fill="#465247" font-family="Arial,sans-serif" font-size="10">Shared garden</text>
+  <text x="249" y="405" fill="#324338" font-family="Georgia,serif" font-size="19">12 neighbors</text>
+  <rect x="476" y="333" width="244" height="104" rx="6" fill="#fff"/>
+  <circle cx="502" cy="360" r="10" fill="#e8ad8e"/>
+  <text x="521" y="364" fill="#465247" font-family="Arial,sans-serif" font-size="10">Saturday swap</text>
+  <text x="497" y="405" fill="#324338" font-family="Georgia,serif" font-size="19">This weekend</text>
+  <text x="228" y="491" fill="#324338" font-family="Arial,sans-serif" font-size="13" font-weight="700">A note from your neighbors</text>
+  <rect x="228" y="508" width="492" height="48" rx="6" fill="#fff"/>
+  <circle cx="254" cy="532" r="12" fill="#d9aa8a"/>
+  <text x="277" y="530" fill="#546052" font-family="Arial,sans-serif" font-size="9">“Thanks for making this feel like a place we all belong.”</text>
+  <text x="277" y="544" fill="#92998d" font-family="Arial,sans-serif" font-size="8">Mina · community member</text>
+</svg>
